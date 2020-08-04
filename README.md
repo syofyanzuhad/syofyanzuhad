@@ -4,7 +4,7 @@
 
 [![Twitter Badge](http://img.shields.io/badge/-@syofyan_zuhad-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/syofyan_zuhad)](https://twitter.com/syofyan_zuhad) [![GitHub followers](https://img.shields.io/github/followers/syofyanzuhad?label=Follow&style=social)](https://github.com/syofyan_zuhad/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-syofyan_zuhad-blue?style=social&logo=Instagram&link=https://www.instagram.com/syofyan_zuhad/)](https://www.instagram.com/lord_shinjo5/) 
-[![Facebook Badge](https://img.shields.io/badge/-Jeff_Maruli-blue?style=social&logo=facebook&link=https://www.facebook.com/syofyan.zuhad/)](https://www.facebook.com/syofyan.zuhad/) 
+[![Facebook Badge](https://img.shields.io/badge/-syofyan_zuhad-blue?style=social&logo=facebook&link=https://www.facebook.com/syofyan.zuhad/)](https://www.facebook.com/syofyan.zuhad/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=syofyanzuhad.syofyanzuhad)
  </div>
 
