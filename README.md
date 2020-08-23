@@ -20,7 +20,3 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&layout=compact)](https://github.com/syofyanzuhad)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&title_color=555&text_color=777&show_icons=true&icon_color=333)](https://github.com/syofyanzuhad)
-
-
