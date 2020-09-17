@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there <code><img height="25" width="25"  src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></code>
 
 <div align="centre">
-[![Twitter Badge](http://img.shields.io/badge/-@syofyan_zuhad-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/syofyan_zuhad)](https://twitter.com/syofyan_zuhad)
-[![GitHub followers](https://img.shields.io/github/followers/syofyanzuhad?label=Follow&style=social)](https://github.com/syofyanzuhad/?tab=follow)
+ 
+[![Twitter Badge](http://img.shields.io/badge/-@syofyan_zuhad-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/syofyan_zuhad)](https://twitter.com/syofyan_zuhad) 
+[![GitHub followers](https://img.shields.io/github/followers/syofyanzuhad?label=Follow&style=social)](https://github.com/syofyanzuhad/?tab=follow) 
 [![Instagram Badge](https://img.shields.io/badge/-syofyan_zuhad-blue?style=social&logo=Instagram&link=https://www.instagram.com/syofyan_zuhad/)](https://www.instagram.com/syofyan_zuhad/) 
-[![Facebook Badge](https://img.shields.io/badge/-syofyan_zuhad-blue?style=social&logo=facebook&link=https://www.facebook.com/syofyan.zuhad/)](https://www.facebook.com/syofyan.zuhad/) 
+[![Facebook Badge](https://img.shields.io/badge/-syofyan.zuhad-blue?style=social&logo=facebook&link=https://www.facebook.com/syofyan.zuhad/)](https://www.facebook.com/syofyan.zuhad/) 
+[![Telegram Badge](https://img.shields.io/badge/-Syofyan_zuhad-blue?style=social&logo=telegram&link=https://www.t.me/Syofyan_zuhad/)](https://www.t.me/Syofyan_zuhad/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=syofyanzuhad.syofyanzuhad)
+
  </div>
 
 **Languages, Frameworks, and Tools:**  
@@ -19,8 +22,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"></code>
 
-<div width=100% height="200px">
- [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&layout=compact)](https://github.com/syofyanzuhad)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333)](https://github.com/syofyanzuhad)
-</div
+[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&layout=compact)](https://github.com/syofyanzuhad) 
+ 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333&line_height=20px)](https://github.com/syofyanzuhad) 
