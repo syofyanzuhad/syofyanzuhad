@@ -41,6 +41,9 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Syofyan Zuhad's DEV Profile" height="30" width="30">
  </a>
  <a href="https://syofyanzuhad.netlify.com/">
-  <img src="https://syofyanzuhad.netlify.com/img/code2.png" alt="Syofyan Zuhad's Medium" height="30" width="30">
-</a>
+  <img src="https://syofyanzuhad.netlify.com/img/code2.png" alt="Syofyan Zuhad's Web Profile" height="30" width="30">
+ </a>
+ <a href="https://syofyanzuhad.netlify.com/dzikir">
+  <img src="https://syofyanzuhad.netlify.com/img/quran.png" alt="Aplikasi Dzikir Pagi & Petang" height="30" width="30">
+ </a>
 </p>
