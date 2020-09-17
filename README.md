@@ -32,3 +32,15 @@
 
 [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&layout=compact)](https://github.com/syofyanzuhad) 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333&line_height=20px)](https://github.com/syofyanzuhad) 
+
+<p align="center">
+ <a href="https://medium.com/@syofyanzuhad">
+  <img src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png" alt="Syofyan Zuhad's Medium" height="30" width="30">
+</a>
+ <a href="https://dev.to/syofyanzuhad">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Syofyan Zuhad's DEV Profile" height="30" width="30">
+ </a>
+ <a href="https://syofyanzuhad.netlify.com/">
+  <img src="https://syofyanzuhad.netlify.com/img/code2.png" alt="Syofyan Zuhad's Medium" height="30" width="30">
+</a>
+</p>
