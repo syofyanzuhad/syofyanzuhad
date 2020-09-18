@@ -35,7 +35,7 @@
 
 <p align="center">
  <a href="https://medium.com/@syofyanzuhad">
-  <img src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png" alt="Syofyan Zuhad's Medium" height="30" width="30">
+  <img src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png" alt="Syofyan Zuhad's Medium" height="28" width="28">
 </a>
  <a href="https://dev.to/syofyanzuhad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Syofyan Zuhad's DEV Profile" height="30" width="30">
