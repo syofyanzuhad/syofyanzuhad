@@ -2,7 +2,7 @@
 
 <div align="centre">
  
-[![Twitter Badge](http://img.shields.io/badge/-@syofyan_zuhad-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/syofyan_zuhad)](https://twitter.com/syofyan_zuhad) 
+[![Twitter Badge](http://img.shields.io/badge/-@syofyan_zuhad-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/syofyan_zuhad)](https://twitter.com/syofyan_zuhad) 
 [![GitHub followers](https://img.shields.io/github/followers/syofyanzuhad?label=Follow&style=social)](https://github.com/syofyanzuhad/?tab=follow) 
 [![Instagram Badge](https://img.shields.io/badge/-syofyan_zuhad-blue?style=social&logo=Instagram&link=https://www.instagram.com/syofyan_zuhad/)](https://www.instagram.com/syofyan_zuhad/) 
 [![Facebook Badge](https://img.shields.io/badge/-syofyan.zuhad-blue?style=social&logo=facebook&link=https://www.facebook.com/syofyan.zuhad/)](https://www.facebook.com/syofyan.zuhad/) 
@@ -30,8 +30,8 @@
 
 **Stats**
 
-[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&layout=compact)](https://github.com/syofyanzuhad) 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333&line_height=20px)](https://github.com/syofyanzuhad) 
+[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&theme=dark&layout=compact)](https://github.com/syofyanzuhad) 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/syofyanzuhad) 
 
 <p align="center">
  <a href="https://medium.com/@syofyanzuhad" target="_blank">
