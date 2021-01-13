@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-syofyan_zuhad-blue?style=social&logo=Instagram&link=https://www.instagram.com/syofyan_zuhad/)](https://www.instagram.com/syofyan_zuhad/) 
 [![Facebook Badge](https://img.shields.io/badge/-syofyan.zuhad-blue?style=social&logo=facebook&link=https://www.facebook.com/syofyan.zuhad/)](https://www.facebook.com/syofyan.zuhad/) 
 [![Telegram Badge](https://img.shields.io/badge/-Syofyan_zuhad-blue?style=social&logo=telegram&link=https://www.t.me/Syofyan_zuhad/)](https://www.t.me/Syofyan_zuhad/) 
-![visitors](https://hit-badger.glitch.me/badge?page_id=syofyanzuhad.syofyanzuhad)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=syofyanzuhad.syofyanzuhad)
 
  </div>
 
