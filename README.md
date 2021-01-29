@@ -30,7 +30,7 @@
 
 **Stats**
 
-[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&theme=dark&layout=compact)](https://github.com/syofyanzuhad) 
+[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&theme=dark&layout=compact&hide=html)](https://github.com/syofyanzuhad) 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/syofyanzuhad) 
 
 <p align="center">
