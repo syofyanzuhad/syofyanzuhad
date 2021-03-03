@@ -41,7 +41,7 @@
  <a href="https://dev.to/syofyanzuhad" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Syofyan Zuhad's DEV Profile" height="30" width="30">
  </a>
- <a href="git@github.com:syofyanzuhad/syofyanzuhad.git" target="_blank">
+ <a href="https://wakatime.com/@syofyanzuhad" target="_blank">
   <img src="https://wakatime.com/safari-pinned-tab.svg" alt="Wakatime Profile" height="30" width="30">
  </a>
  <a href="https://syofyanzuhad.netlify.com/" target="_blank">
