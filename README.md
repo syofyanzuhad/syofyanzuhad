@@ -52,6 +52,11 @@
 
 [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&theme=dark&hide=html)](https://github.com/syofyanzuhad?tab=follow)_[![Syofyan Zuhad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syofyanzuhad&layout=compact&theme=dark)](https://github.com/syofyanzuhad?tab=follow)
 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <p align="center">
  <a href="https://medium.com/@syofyanzuhad" target="_blank">
   <img src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png" alt="Syofyan Zuhad's Medium" height="28" width="28">
