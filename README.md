@@ -23,7 +23,7 @@
 <img alt="apache2" title="apache2" height="25" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"> 
 <img alt="nginx" title="nginx" height="25" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"> 
 <img alt="mySQL" title="mySQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
-<img alt="postman" title="postman" height="25" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"> 
+<img alt="phpMyadmin" title="phpMyadmin" height="25" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"> 
 <img alt="postgresql" title="postgresql" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
 <img alt="php" title="php" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> 
 <img alt="javascript" title="javascript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
