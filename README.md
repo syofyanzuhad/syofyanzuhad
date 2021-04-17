@@ -29,7 +29,7 @@
 <img alt="javascript" title="javascript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
 <img alt="jQuery" title="jQuery" height="25" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"> 
 <img alt="npm" title="npm" height="25" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"> 
-<img alt="npm" title="npm" height="25" src="https://avatars.githubusercontent.com/u/837015?s=200&v=4"> 
+<img alt="composer" title="composer" height="25" src="https://avatars.githubusercontent.com/u/837015?s=200&v=4"> 
 <img alt="HTML5" title="HTML5" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
 <img alt="CSS3" title="CSS3" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> 
 <img alt="bootstrap" title="bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
