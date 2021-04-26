@@ -130,6 +130,14 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
+<details>
+  <summary><b>Articles</b></summary>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/0" alt="Recent Article 0">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/1" alt="Recent Article 1">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/2" alt="Recent Article 2">
+
+</details>
+
 <p align="center">
  <a href="https://medium.com/@syofyanzuhad" target="_blank">
   <img src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png" alt="Syofyan Zuhad's Medium" height="28" width="28">
