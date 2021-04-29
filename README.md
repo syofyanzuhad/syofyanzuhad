@@ -58,11 +58,11 @@
   <summary><b>⚡ Wakatime Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 678 Contributions in the Year 2021
+> 🏆 679 Contributions in the Year 2021
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
@@ -70,7 +70,7 @@
  > 
 > 📜 73 Public Repositories 
  > 
-> 🔑 18 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -114,11 +114,11 @@ VS Code                  3 hrs 46 mins       ██████████░�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      45 repos            █████████████░░░░░░░░░░░░   52.94% 
-JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   21.18% 
-HTML                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Blade                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+PHP                      45 repos            █████████████░░░░░░░░░░░░   52.33% 
+JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.93% 
+HTML                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.77% 
+Blade                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
 ```
 
