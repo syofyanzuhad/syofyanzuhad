@@ -109,11 +109,11 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      45 repos            █████████████░░░░░░░░░░░░   52.33% 
-JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.93% 
-HTML                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.77% 
-Blade                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
+PHP                      45 repos            █████████████░░░░░░░░░░░░   51.72% 
+JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69% 
+HTML                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.54% 
+Blade                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 
 ```
 
