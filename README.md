@@ -133,17 +133,20 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 <details>
   <summary><b>Articles</b></summary>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/0" alt="Recent Article 0">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/1" alt="Recent Article 1">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/2" alt="Recent Article 2">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/0" alt="Recent Article 0"></a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/1" alt="Recent Article 1"></a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/2" alt="Recent Article 2"></a>
 </details>
 
 <br />
 
-[<img src="https://button.ibnux.net/trakteer/syofyanzuhad.png" height="25">](https://trakteer.id/syofyanzuhad/tip)
+<details>
+  <summary><b>Support</b></summary>
 
+  [<img src="https://button.ibnux.net/trakteer/syofyanzuhad.png" height="25">](https://trakteer.id/syofyanzuhad/tip)
 
-<script type="text/javascript"src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="syofyanzuhad" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/syofyanzuhad)
+</details>
 
 <p align="center">
  <a href="https://medium.com/@syofyanzuhad" target="_blank">
@@ -162,6 +165,5 @@ Python                   2 repos             ░░░░░░░░░░░�
   <img src="https://syofyanzuhad.netlify.com/img/quran.png" alt="Aplikasi Dzikir Pagi & Petang" height="30" width="30">
  </a>
  <a href="https://syofyanzuhad.netlify.com/dzikir" target="_blank">
-  <iframe class="widget-preview bg-white" src="https://trakteer.id/syofyanzuhad/stream/running-text?key=trstream-OeOae4JAIyDCzqO29yNt&amp;rt_txtshadow=false&amp;preview=true&amp;static=true&amp;use_placeholder=true" width="100%" height="40px"></iframe>
  </a>
 </p>
