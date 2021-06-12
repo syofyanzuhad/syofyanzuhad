@@ -12,7 +12,7 @@
 
  </div>
 
-**Languages, Frameworks, and Tools:**  
+**⚡ Languages, Frameworks, and Tools:**  
 
 <p align="left">
 <img alt="pinguin" title="pinguin" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
@@ -47,15 +47,19 @@
 
 <br>
 
-**Stats**
+**📅 Stats**
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/syofyanzuhad?tab=follow)
 
-[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&theme=dark&hide=html)](https://github.com/syofyanzuhad?tab=follow)_[![Syofyan Zuhad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syofyanzuhad&layout=compact&theme=dark)](https://github.com/syofyanzuhad?tab=follow)
+<details>
+  <summary><b>🐤 Preview</b></summary>
+
+  [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=syofyanzuhad&theme=dark&hide=html)](https://github.com/syofyanzuhad?tab=follow)_[![Syofyan Zuhad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syofyanzuhad&layout=compact&theme=dark)](https://github.com/syofyanzuhad?tab=follow)
+</details>
 
 
-<details>	
-  <summary><b>⚡ Wakatime Stats</b></summary>
+<details>
+  <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
@@ -132,16 +136,14 @@ Python                   2 repos             ░░░░░░░░░░░�
 </details>
 
 <details>
-  <summary><b>Articles</b></summary>
+  <summary><b>📜 Articles</b></summary>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/0" alt="Recent Article 0"></a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/1" alt="Recent Article 1"></a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syofyanzuhad/2" alt="Recent Article 2"></a>
 </details>
 
-<br />
-
 <details>
-  <summary><b>Support</b></summary>
+  <summary><b>🔥 Support</b></summary>
 
   [<img src="https://button.ibnux.net/trakteer/syofyanzuhad.png" height="25">](https://trakteer.id/syofyanzuhad/tip)
 
