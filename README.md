@@ -148,6 +148,8 @@ Python                   2 repos             ░░░░░░░░░░░�
   [<img src="https://button.ibnux.net/trakteer/syofyanzuhad.png" height="25">](https://trakteer.id/syofyanzuhad/tip)
 
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/syofyanzuhad)
+
+  [<img width="50%" src="https://flip.id/aset_gambar/logo_footer_2.png" alt="Flip me">](https://flip.id/$6XDIN)
 </details>
 
 <p align="center">
