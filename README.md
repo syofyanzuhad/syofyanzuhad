@@ -1,4 +1,4 @@
-### Hi there <img height="25" width="25"  src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> 👨‍💻
+## Hi there <img height="25" width="25"  src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> 👨‍💻
 
 <div align="centre">
  
@@ -12,7 +12,7 @@
 
  </div>
 
-**⚡ Languages, Frameworks, and Tools:**  
+#### ⚡ Languages, Frameworks, and Tools:  
 
 <p align="left">
 <img alt="pinguin" title="pinguin" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
@@ -47,7 +47,7 @@
 
 <br>
 
-**📅 Stats**
+#### 📅 Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/syofyanzuhad?tab=follow)
 
@@ -59,7 +59,7 @@
 
 
 <details>
-  <summary><b>📊 Detail Stats</b></summary>
+   <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
