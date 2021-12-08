@@ -63,7 +63,7 @@
    <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
 
@@ -83,8 +83,8 @@
 
 ```text
 🌞 Morning    305 commits    ██████░░░░░░░░░░░░░░░░░░░   24.54% 
-🌆 Daytime    483 commits    █████████░░░░░░░░░░░░░░░░   38.86% 
-🌃 Evening    389 commits    ███████░░░░░░░░░░░░░░░░░░   31.3% 
+🌆 Daytime    484 commits    █████████░░░░░░░░░░░░░░░░   38.94% 
+🌃 Evening    388 commits    ███████░░░░░░░░░░░░░░░░░░   31.21% 
 🌙 Night      66 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
 
 ```
