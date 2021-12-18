@@ -63,6 +63,8 @@
    <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2020%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -111,8 +113,8 @@ Bash                     11 mins             ░░░░░░░░░░░�
 Go                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 🔥 Editors: 
-PhpStorm                 9 hrs 42 mins       █████████████████░░░░░░░░   69.54% 
-VS Code                  4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   30.46%
+PhpStorm                 9 hrs 42 mins       █████████████████░░░░░░░░   69.52% 
+VS Code                  4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   30.48%
 
 ```
 
