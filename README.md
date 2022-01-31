@@ -63,7 +63,9 @@
    <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C372%20hrs%205%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -104,13 +106,15 @@ Sunday       103 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      13 hrs 16 mins      ████████████████████████░   96.6% 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
-Blade Template           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+PHP                      12 hrs 8 mins       ███████████████████████░░   94.82% 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
+Blade Template           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-PhpStorm                 12 hrs 44 mins      ███████████████████████░░   92.74% 
-VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.26%
+PhpStorm                 11 hrs 56 mins      ███████████████████████░░   93.35% 
+VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.65%
 
 ```
 
@@ -131,7 +135,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2022 18:29:40 UTC
+ Last Updated on 31/01/2022 21:28:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
