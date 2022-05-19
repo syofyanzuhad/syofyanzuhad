@@ -63,13 +63,13 @@
    <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C675%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C675%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 633 Contributions in the Year 2022
+> 🏆 636 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -92,9 +92,9 @@
 
 ```text
 Monday       127 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
-Tuesday      107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+Tuesday      104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
 Wednesday    194 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-Thursday     217 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
+Thursday     220 commits    █████░░░░░░░░░░░░░░░░░░░░   19.64% 
 Friday       184 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
 Saturday     194 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
 Sunday       97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66%
@@ -135,7 +135,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 06:38:38 UTC
+ Last Updated on 19/05/2022 09:29:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
