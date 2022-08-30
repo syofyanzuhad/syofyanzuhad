@@ -75,9 +75,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 127 Public Repositories 
+> 📜 128 Public Repositories 
  > 
-> 🔑 33 Private Repositories  
+> 🔑 32 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -134,7 +134,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 09:28:16 UTC
+ Last Updated on 30/08/2022 15:32:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
