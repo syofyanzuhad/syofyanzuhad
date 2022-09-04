@@ -63,7 +63,7 @@
    <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C831%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
@@ -79,41 +79,6 @@
  > 
 > 🔑 32 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    291 commits    ██████░░░░░░░░░░░░░░░░░░░   23.83% 
-🌆 Daytime    567 commits    ███████████░░░░░░░░░░░░░░   46.44% 
-🌃 Evening    305 commits    ██████░░░░░░░░░░░░░░░░░░░   24.98% 
-🌙 Night      58 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.75%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
-Tuesday      126 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
-Wednesday    222 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Thursday     214 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.53% 
-Friday       213 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
-Saturday     176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Sunday       98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-PHP                      59 mins             ███████████████████████░░   94.16% 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
-
-🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -131,7 +96,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 06:31:10 UTC
+ Last Updated on 04/09/2022 09:34:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
