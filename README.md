@@ -69,8 +69,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 975 Contributions in the Year 2022
- > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -131,7 +129,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 09:32:25 UTC
+ Last Updated on 14/09/2022 12:56:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
