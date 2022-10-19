@@ -63,7 +63,7 @@
    <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C875%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
@@ -106,12 +106,11 @@ Sunday       79 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      3 hrs 2 mins        ███████████████░░░░░░░░░░   60.57% 
-Blade Template           1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   35.33% 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
+Blade Template           2 hrs 15 mins       █████████████░░░░░░░░░░░░   55.1% 
+PHP                      1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.9%
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  4 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +131,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 18:58:06 UTC
+ Last Updated on 19/10/2022 21:39:44 UTC
 <!--END_SECTION:waka-->
 </details>
 
