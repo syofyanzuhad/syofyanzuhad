@@ -152,7 +152,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/syofyanzuhad)
 
-  [<img width="50%" src="https://flip.id/aset_gambar/logo_footer_2.png" alt="Flip me">](https://flip.id/$6XDIN)
+  [<img width="50%" src="https://flip.id/aset_gambar/logo_footer_2.png" alt="Flip me">](https://flip.id/me/syofyanzuhad)
 </details>
 
 <p align="center">
