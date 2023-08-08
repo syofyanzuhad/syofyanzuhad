@@ -8,7 +8,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-syofyan.zuhad-blue?style=social&logo=facebook&link=https://www.facebook.com/syofyan.zuhad/)](https://www.facebook.com/syofyan.zuhad/) 
 [![Telegram Badge](https://img.shields.io/badge/-Syofyan_zuhad-blue?style=social&logo=telegram&link=https://www.t.me/Syofyan_zuhad/)](https://www.t.me/Syofyan_zuhad/) 
 [![Linkedin: syofyan-zuhad](https://img.shields.io/badge/-syofyanzuhad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syofyan-zuhad-583385191/)](https://www.linkedin.com/in/syofyan-zuhad-583385191/) 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=syofyanzuhad.syofyanzuhad)
+![](https://komarev.com/ghpvc/?username=syofyanzuhad&style=flat-square)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=syofyanzuhad.syofyanzuhad) -->
 
  </div>
 
