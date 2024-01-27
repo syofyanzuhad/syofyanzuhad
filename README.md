@@ -1,4 +1,5 @@
-## Hi there <img height="25" width="25"  src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> 👨‍💻
+## Hi there <img height="25" width="25"  src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/596d285c-1e59-4e90-92e8-d524b2f48ad1"> 👨‍💻
+
 
 <div align="centre">
  
@@ -43,7 +44,8 @@
 <img alt="cpanel" title="cpanel" height="35" src="https://www.netonboard.com/wp-content/uploads/2020/04/Cpanel-content-design-1000x500-1.png"> 
 <img alt="stackoverflow" title="stackoverflow" height="35" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"> 
 <img alt="trello" title="trello" height="35" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"> 
-<img alt="help_me" title="help_me" height="35" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+<img alt="help_me" title="help_me" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/73b6a8fc-9154-4bc6-9fbc-615cc9eedb18">
+
 </p>
 
 >_You want more? Just googling my name [`Syofyan Zuhad`](https://www.google.com/search?q=syofyan+zuhad)_
