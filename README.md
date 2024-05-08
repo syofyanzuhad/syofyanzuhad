@@ -10,6 +10,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Syofyan_zuhad-blue?style=social&logo=telegram&link=https://www.t.me/Syofyan_zuhad/)](https://www.t.me/Syofyan_zuhad/) 
 [![Linkedin: syofyan-zuhad](https://img.shields.io/badge/-syofyanzuhad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syofyan-zuhad-583385191/)](https://www.linkedin.com/in/syofyan-zuhad-583385191/) 
 ![](https://komarev.com/ghpvc/?username=syofyanzuhad&style=flat-square)
+
+![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=syofyanzuhad)
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=syofyanzuhad.syofyanzuhad) -->
 
  </div>
@@ -41,7 +43,8 @@
 <img alt="laravolt" title="laravolt" height="35" src="https://avatars.githubusercontent.com/u/13552888?s=200&v=4"> 
 <img alt="postman" title="postman" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
 <img alt="heroku" title="heroku" height="35" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> 
-<img alt="cpanel" title="cpanel" height="35" src="https://www.netonboard.com/wp-content/uploads/2020/04/Cpanel-content-design-1000x500-1.png"> 
+<img alt="cpanel" title="cpanel" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/8d71f5fc-c88c-4cb1-a6cc-760e1ca4f6d8"> 
+<img alt="cloudpanel" title="cloudpanel" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/535a86b1-13e5-44f9-820b-0fd172e1193b"> 
 <img alt="stackoverflow" title="stackoverflow" height="35" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"> 
 <img alt="trello" title="trello" height="35" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"> 
 <img alt="help_me" title="help_me" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/73b6a8fc-9154-4bc6-9fbc-615cc9eedb18">
