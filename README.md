@@ -171,10 +171,10 @@ Dart                     3 repos             ░░░░░░░░░░░�
   <img src="https://wakatime.com/safari-pinned-tab.svg" alt="Wakatime Profile" height="30" width="30">
  </a>
  <a href="https://syofyanzuhad.netlify.com/" target="_blank">
-  <img src="https://syofyanzuhad.netlify.com/img/code2.png" alt="Syofyan Zuhad's Web Profile" height="30" width="30">
+  <img src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/64c50cf2-433d-4512-83bc-92824ea301ec" alt="Syofyan Zuhad's Web Profile" height="30" width="30">
  </a>
  <a href="https://syofyanzuhad.netlify.com/dzikir" target="_blank">
-  <img src="https://syofyanzuhad.netlify.com/img/quran.png" alt="Aplikasi Dzikir Pagi & Petang" height="30" width="30">
+  <img src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/c5c8dccc-f51d-414e-81f9-3719201d56a4" alt="Aplikasi Dzikir Pagi & Petang" height="30" width="30">
  </a>
  <a href="https://syofyanzuhad.netlify.com/dzikir" target="_blank">
  </a>
