@@ -1,6 +1,6 @@
 ## Hi there <img height="25" width="25"  src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/596d285c-1e59-4e90-92e8-d524b2f48ad1"> 👨‍💻
 
-
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 <div align="centre">
  
 [![Twitter Badge](http://img.shields.io/badge/-@syofyan_zuhad-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/syofyan_zuhad)](https://twitter.com/syofyan_zuhad) 
