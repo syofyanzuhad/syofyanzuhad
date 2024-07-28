@@ -3,7 +3,7 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 <div align="centre">
  
-[![Twitter Badge](http://img.shields.io/badge/-@syofyan_zuhad-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/syofyan_zuhad)](https://twitter.com/syofyan_zuhad) 
+[![Twitter Badge](http://img.shields.io/badge/-@syofyan_zuhad-1ca0f1?style=social&labelColor=&logo=x&logoColor=blue&link=https://twitter.com/syofyan_zuhad)](https://twitter.com/syofyan_zuhad) 
 [![GitHub followers](https://img.shields.io/github/followers/syofyanzuhad?label=Follow&style=social)](https://github.com/syofyanzuhad/?tab=follow) 
 [![Instagram Badge](https://img.shields.io/badge/-syofyan_zuhad-blue?style=social&logo=Instagram&link=https://www.instagram.com/syofyan_zuhad/)](https://www.instagram.com/syofyan_zuhad/) 
 [![Facebook Badge](https://img.shields.io/badge/-syofyan.zuhad-blue?style=social&logo=facebook&link=https://www.facebook.com/syofyan.zuhad/)](https://www.facebook.com/syofyan.zuhad/) 
