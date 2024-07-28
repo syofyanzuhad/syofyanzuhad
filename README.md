@@ -170,7 +170,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
  <a href="https://wakatime.com/@syofyanzuhad" target="_blank">
   <img src="https://wakatime.com/safari-pinned-tab.svg" alt="Wakatime Profile" height="30" width="30">
  </a>
- <a href="https://syofyanzuhad.netlify.com/" target="_blank">
+ <a href="https://syofyan.freebio.dev/" target="_blank">
   <img src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/64c50cf2-433d-4512-83bc-92824ea301ec" alt="Syofyan Zuhad's Web Profile" height="30" width="30">
  </a>
  <a href="https://syofyanzuhad.netlify.com/dzikir" target="_blank">
