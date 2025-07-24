@@ -10,6 +10,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Syofyan_zuhad-blue?style=social&logo=telegram&link=https://www.t.me/Syofyan_zuhad/)](https://www.t.me/Syofyan_zuhad/) 
 [![Linkedin: syofyan-zuhad](https://img.shields.io/badge/-syofyanzuhad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syofyan-zuhad-583385191/)](https://www.linkedin.com/in/syofyan-zuhad-583385191/) 
 ![](https://komarev.com/ghpvc/?username=syofyanzuhad&style=flat-square)
+![](https://hit.yhype.me/github/profile?account_id=52684582)
 
 ![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=syofyanzuhad)
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=syofyanzuhad.syofyanzuhad) -->
