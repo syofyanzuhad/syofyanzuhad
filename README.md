@@ -111,14 +111,10 @@ Sunday                   3841 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      56 mins             █████████░░░░░░░░░░░░░░░░   35.06 % 
-TypeScript               49 mins             ████████░░░░░░░░░░░░░░░░░   30.74 % 
-JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Blade Template           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -138,7 +134,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 16:02:04 UTC
+ Last Updated on 19/09/2025 19:15:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
