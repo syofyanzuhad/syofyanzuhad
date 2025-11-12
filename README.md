@@ -118,11 +118,10 @@ Sunday                   3992 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     5 mins              ██████████████░░░░░░░░░░░   55.48 % 
-JavaScript               4 mins              ███████████░░░░░░░░░░░░░░   44.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -142,7 +141,7 @@ Vue                      8 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2025 16:17:01 UTC
+ Last Updated on 12/11/2025 19:13:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
