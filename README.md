@@ -53,7 +53,6 @@
 </p>
 
 >_You want more? Just googling my name [`Syofyan Zuhad`](https://www.google.com/search?q=syofyan+zuhad)_
-<br>
 
 ### 🏗️ My Open Source Projects
 
