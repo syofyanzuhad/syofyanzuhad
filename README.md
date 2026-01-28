@@ -61,6 +61,7 @@
 | [Laravel Trik Indonesia](https://github.com/syofyanzuhad/laravel-trik-indonesia)          | [![Stars](https://img.shields.io/github/stars/syofyanzuhad/laravel-trik-indonesia)](https://github.com/syofyanzuhad/laravel-trik-indonesia/stargazers)       | [![Forks](https://img.shields.io/github/forks/syofyanzuhad/laravel-trik-indonesia)](https://github.com/syofyanzuhad/laravel-trik-indonesia/network/members)       | [![Issues](https://img.shields.io/github/issues/syofyanzuhad/laravel-trik-indonesia)](https://github.com/syofyanzuhad/laravel-trik-indonesia/issues)       | [![Pull requests](https://img.shields.io/github/issues-pr/syofyanzuhad/laravel-trik-indonesia)](https://github.com/syofyanzuhad/laravel-trik-indonesia/pulls)       |
 | [Uptime Kita](https://github.com/syofyanzuhad/uptime-kita)          | [![Stars](https://img.shields.io/github/stars/syofyanzuhad/uptime-kita)](https://github.com/syofyanzuhad/uptime-kita/stargazers)       | [![Forks](https://img.shields.io/github/forks/syofyanzuhad/uptime-kita)](https://github.com/syofyanzuhad/uptime-kita/network/members)       | [![Issues](https://img.shields.io/github/issues/syofyanzuhad/uptime-kita)](https://github.com/syofyanzuhad/uptime-kita/issues)       | [![Pull requests](https://img.shields.io/github/issues-pr/syofyanzuhad/uptime-kita)](https://github.com/syofyanzuhad/uptime-kita/pulls)       |
 | [Freebio dev](https://github.com/syofyanzuhad/freebio.dev)          | [![Stars](https://img.shields.io/github/stars/syofyanzuhad/freebio.dev)](https://github.com/syofyanzuhad/freebio.dev/stargazers)       | [![Forks](https://img.shields.io/github/forks/syofyanzuhad/freebio.dev)](https://github.com/syofyanzuhad/freebio.dev/network/members)       | [![Issues](https://img.shields.io/github/issues/syofyanzuhad/freebio.dev)](https://github.com/syofyanzuhad/freebio.dev/issues)       | [![Pull requests](https://img.shields.io/github/issues-pr/syofyanzuhad/freebio.dev)](https://github.com/syofyanzuhad/freebio.dev/pulls)       |
+| [Hobits](https://github.com/syofyanzuhad/hobits)          | [![Stars](https://img.shields.io/github/stars/syofyanzuhad/hobits)](https://github.com/syofyanzuhad/hobits/stargazers)       | [![Forks](https://img.shields.io/github/forks/syofyanzuhad/hobits)](https://github.com/syofyanzuhad/hobits/network/members)       | [![Issues](https://img.shields.io/github/issues/syofyanzuhad/hobits)](https://github.com/syofyanzuhad/hobits/issues)       | [![Pull requests](https://img.shields.io/github/issues-pr/syofyanzuhad/hobits)](https://github.com/syofyanzuhad/hobits/pulls)       |
 
 #### 📅 Stats
 
@@ -172,7 +173,7 @@ Vue                      10 repos            █░░░░░░░░░░�
  <a href="https://wakatime.com/@syofyanzuhad" target="_blank">
   <img src="https://wakatime.com/safari-pinned-tab.svg" alt="Wakatime Profile" height="30" width="30">
  </a>
- <a href="https://syofyan.freebio.dev/" target="_blank">
+ <a href="https://freebio.syofyanzuhad.dev/" target="_blank">
   <img src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/64c50cf2-433d-4512-83bc-92824ea301ec" alt="Syofyan Zuhad's Web Profile" height="30" width="30">
  </a>
  <a href="https://syofyanzuhad.my.id/dzikir" target="_blank">
