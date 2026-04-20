@@ -120,10 +120,10 @@ Sunday                   6211 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -143,7 +143,7 @@ Blade                    13 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 01:57:23 UTC
+ Last Updated on 20/04/2026 02:00:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
