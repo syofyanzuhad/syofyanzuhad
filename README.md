@@ -120,15 +120,10 @@ Sunday                   6680 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      35 mins             ████████████░░░░░░░░░░░░░   49.94 % 
-Blade Template           17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity CLI          1 hr 7 mins         ████████████████████████░   96.29 % 
-Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Trae                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -148,7 +143,7 @@ Blade                    13 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 02:09:07 UTC
+ Last Updated on 08/07/2026 01:42:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
