@@ -81,38 +81,38 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C696%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,725 Contributions in the Year 2026
+> 🏆 3,731 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 199 Public Repositories 
+> 📜 200 Public Repositories 
  > 
 > 🔑 98 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                19376 commits       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-🌆 Daytime                27662 commits       ██████████░░░░░░░░░░░░░░░   38.12 % 
-🌃 Evening                16814 commits       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-🌙 Night                  8720 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+🌞 Morning                19377 commits       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+🌆 Daytime                27669 commits       ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌃 Evening                16816 commits       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+🌙 Night                  8726 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   11582 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Monday                   11588 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 Tuesday                  13857 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
 Wednesday                10812 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 Thursday                 11723 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Friday                   10155 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 7487 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Sunday                   6956 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Friday                   10157 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Saturday                 7494 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Sunday                   6957 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 ```
 
 
@@ -129,10 +129,10 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      105 repos           ████████████░░░░░░░░░░░░░   46.05 % 
-JavaScript               31 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-TypeScript               25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-HTML                     23 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+PHP                      105 repos           ███████████░░░░░░░░░░░░░░   45.85 % 
+JavaScript               31 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+HTML                     23 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Vue                      17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
@@ -143,7 +143,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 01:44:08 UTC
+ Last Updated on 27/07/2026 01:47:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
