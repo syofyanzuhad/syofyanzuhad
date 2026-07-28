@@ -68,6 +68,8 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=syofyanzuhad&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/syofyanzuhad?tab=follow)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syofyanzuhad&theme=holi)
+
 <details>
   <summary><b>🐤 Preview</b></summary>
 
