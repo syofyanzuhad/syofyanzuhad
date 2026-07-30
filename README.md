@@ -81,13 +81,17 @@
    <summary><b>📊 Detail Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391.11%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C648%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2014%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,766 Contributions in the Year 2026
+> 🏆 3,788 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -98,21 +102,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                19377 commits       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-🌆 Daytime                27681 commits       ██████████░░░░░░░░░░░░░░░   38.11 % 
-🌃 Evening                16838 commits       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-🌙 Night                  8730 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+🌞 Morning                19385 commits       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌆 Daytime                27734 commits       ██████████░░░░░░░░░░░░░░░   38.13 % 
+🌃 Evening                16858 commits       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+🌙 Night                  8752 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   11594 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Tuesday                  13885 commits       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Wednesday                10813 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 11726 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Friday                   10157 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 7494 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Sunday                   6957 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Monday                   11595 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Tuesday                  13885 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Wednesday                10819 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Thursday                 11743 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Friday                   10216 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Saturday                 7513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Sunday                   6958 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 ```
 
 
@@ -149,7 +153,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syofyanzuhad/syofyanzuhad/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:37:09 UTC
+ Last Updated on 30/07/2026 01:31:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
